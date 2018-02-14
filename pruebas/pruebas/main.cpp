@@ -23,5 +23,5 @@ int main()
 	q.pop();
 	cout << endl;
 	system("pause");
-	return 0;
+	return 1;
 }
